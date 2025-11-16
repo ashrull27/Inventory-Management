@@ -27,7 +27,7 @@ A comprehensive RESTful API for managing inventory with transaction tracking, re
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/ashrull27/inventory-management.git
-cd inventory-management-system
+cd inventory-management
 ```
 
 ### Step 2: Install Dependencies
